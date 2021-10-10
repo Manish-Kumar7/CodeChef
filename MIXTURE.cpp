@@ -1,4 +1,6 @@
-/*Chef has A units of solid and B
+/*
+DATE: 10th October 2021
+Chef has A units of solid and B
 
 units of liquid. He combines them to create a mixture. What kind of mixture does Chef produce: a solution, a solid, or a liquid?
 
